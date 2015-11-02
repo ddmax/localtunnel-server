@@ -14,4 +14,4 @@ ADD . /app
 
 ENV NODE_ENV production
 ENTRYPOINT ["bin/server"]
-EXPOSE 1234
+EXPOSE 80
